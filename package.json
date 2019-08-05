@@ -1,6 +1,6 @@
 {
   "name": "typescript-natural-sort",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "Natural Sort algorithm for Typescript/Javascript - Version 0.7 - Released under MIT license",
   "main": "naturalSort.js",
   "scripts": {
